@@ -1,2 +1,2 @@
 # student-management-system
-A console-based Java application to manage student records with full CRUD functionality (add, view, search, update, delete) using OOP and Collections.
+A Spring Boot REST API for managing students and courses, backed by MySQL, with full CRUD, validation, and many-to-many enrollment relationships
